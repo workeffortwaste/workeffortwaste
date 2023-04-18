@@ -9,4 +9,6 @@ If my fun web experiments brighten your day, my tools save your bacon, or you si
 
 #### Horseman 🐴👀
 
-As a thank for you sponsoring me you'll get immediate early access (for as long as you remain a sponsor) to Horseman, a unique customisable web crawler that I've been working on in my spare time for the last year. 
+https://gethorseman.app/
+
+As a thank for you sponsoring me you'll get instant early bird access (for as long as you remain a sponsor) to Horseman, your endlessly configurable crawling companion; now with GPT integration.
