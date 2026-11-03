@@ -6,3 +6,6 @@ I make useful things, useless things, and things to make you smile.
 Help support my projects and sponsor me on [GitHub Sponsors](https://github.com/sponsors/workeffortwaste/).
 
 If my fun web experiments brighten your day, my tools save your bacon, or you simply want to say thanks for the work that goes into [TAPEFEAR](https://www.tapefear.com/), or any of my [other projects](https://defaced.dev/) consider supporting me and helping to fund more.
+
+#### Contact me
+Have something you want to drop me a message about? Get in touch [here](https://tally.so/r/PRpW8Q).
